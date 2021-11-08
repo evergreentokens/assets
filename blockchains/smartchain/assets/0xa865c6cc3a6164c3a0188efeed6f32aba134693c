@@ -1,0 +1,14 @@
+info.json
+{
+    "id": "Contract Address"0xa865c6cc3a6164c3a0188efeed6f32aba134693c,
+    "name": "Token Name"evergreen token,
+    "symbol": "Token Symbol"EGT,
+    "type": "ERC20",
+    "decimals": 9,
+    "website": "https://evergreentokens.org",
+    "explorer": "https://bscscan.com/address/0xa865c6cc3a6164c3a0188efeed6f32aba134693c", 
+    "reflections": true,
+    "social" : {
+        "twitter" : "https://twitter.com/evergreentokens?t"
+    }
+}
